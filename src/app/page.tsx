@@ -13,5 +13,5 @@ export default function Home() {
     );
   }
 
-  return <button onClick={() => signIn("twitch")}>Sign in with Twitch</button>;
+  return <p>Non sei loggato</p>;
 }
